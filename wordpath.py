@@ -1,3 +1,9 @@
+"""
+wordpath.py
+
+@author: Snehil Sharma
+"""
+
 
 from collections import deque
 import string
